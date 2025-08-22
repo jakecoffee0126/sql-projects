@@ -4,16 +4,16 @@ order_id,order_date,ship_mode,segment,country,city,state,postal_code,region,cate
 3,2023-01-10,Second Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Labels,OFF-LA-10000240,10,10,2,5
 4,2022-06-18,Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,FUR-TA-10000577,780,960,5,2
 5,2022-07-13,Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,OFF-ST-10000760,20,20,2,5
-6,2022-03-13,Not Available,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,FUR-FU-10001487,50,50,7,3
+6,2022-03-13,,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,FUR-FU-10001487,50,50,7,3
 7,2022-12-28,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Art,OFF-AR-10002833,10,10,4,3
 8,2022-01-25,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,TEC-PH-10002275,860,910,6,5
-9,2023-03-23,Not Available,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Binders,OFF-BI-10003910,20,20,3,2
+9,2023-03-23,,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Binders,OFF-BI-10003910,20,20,3,2
 10,2023-05-16,Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Appliances,OFF-AP-10002892,90,110,5,3
-11,2023-03-31,Not Available,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,FUR-TA-10001539,1470,1710,9,3
-12,2023-12-25,Not Available,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,TEC-PH-10002033,750,910,4,3
+11,2023-03-31,,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,FUR-TA-10001539,1470,1710,9,3
+12,2023-12-25,,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,TEC-PH-10002033,750,910,4,3
 13,2022-02-11,Standard Class,Consumer,United States,Concord,North Carolina,28027,South,Office Supplies,Paper,OFF-PA-10002365,20,20,3,3
 14,2023-07-18,Standard Class,Consumer,United States,Seattle,Washington,98103,West,Office Supplies,Binders,OFF-BI-10003656,360,410,3,2
-15,2023-11-09,unknown,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,OFF-AP-10002311,60,70,5,5
+15,2023-11-09,,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,OFF-AP-10002311,60,70,5,5
 16,2022-06-18,Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,OFF-BI-10000756,0,0,3,5
 17,2022-02-04,Standard Class,Consumer,United States,Madison,Wisconsin,53711,Central,Office Supplies,Storage,OFF-ST-10004186,610,670,6,3
 18,2023-08-04,Second Class,Consumer,United States,West Jordan,Utah,84084,West,Office Supplies,Storage,OFF-ST-10000107,60,60,2,4

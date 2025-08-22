@@ -7,8 +7,8 @@ import psycopg2
 import csv
 
 # read data from the file and handle null values
-# df = pd.read_csv('orders.csv', na_values=['Not Available', 'unknown'])
-df = pd.read_csv('orders.csv')
+df = pd.read_csv('orders.csv', na_values=['Not Available', 'unknown'])
+# df = pd.read_csv('orders.csv')
 # print(df.head(20))
 df['Ship Mode'].unique()
 
@@ -182,7 +182,9 @@ cur.execute("""
 
 '''
 Create the retail order table to load the csv file to DB
+or you can also create the table from DB instead of write SQL like below,
 '''
+
 
 cur.execute("""
             CREATE TABLE retail_order(
