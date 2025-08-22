@@ -8,10 +8,11 @@ import csv
 
 # read data from the file and handle null values
 df = pd.read_csv('orders.csv', na_values=['Not Available', 'unknown'])
-# df = pd.read_csv('orders.csv')
 # print(df.head(20))
-df['Ship Mode'].unique()
 
+print(df['Ship Mode'].unique())
+# the unique() function is used to find the distinct values within a Series
+# in this case, ['Second Class' 'Standard Class' nan 'First Class' 'Same Day']
 
 # rename columns names ..make them lower case and replace space with underscore
 df.rename(columns={'order id': 'order_id'})
