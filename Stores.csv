@@ -1,0 +1,364 @@
+﻿Store Number,Salesperson,ManagerId,Store Name,Store City,Store Province,Region Number,Warehouse Number,District Number,Language,Location
+5,Wesley Yu,125,CANATRUX Airdrie,AIRDRIE,AB,1,99,205,ENG,5-Chts Airdrie
+10,Noah Truong,138,CANATRUX Assiniboia,Assiniboia,SK,1,99,215,ENG,10-Chts Assiniboia
+20,Lillian Desai,124,CANATRUX Brandon,Brandon,MB,1,99,215,ENG,20-Chts Brandon
+25,Luca Phan,126,CANATRUX Brooks,Brooks,AB,1,99,205,ENG,25-Chts Brooks
+40,Harper Dominguez,120,CANATRUX Camrose,Camrose,AB,1,99,210,ENG,40-Chts Camrose
+50,Axel Patel,126,CANATRUX Dawson Creek,Dawson Creek,BC,1,99,210,ENG,50-Chts Dawson Creek
+55,Chloe Chin,198,CANATRUX Edmonton,Edmonton,AB,1,99,210,ENG,55-Chts Edmonton
+60,Charlotte Park,139,CANATRUX Estevan,Estevan,SK,1,99,215,ENG,60-Chts Estevan
+70,Ezra Vu,120,CANATRUX Grande Prairie,Grande Prairie,AB,1,99,210,ENG,70-Chts Grande Prairie
+73,Amelia Dominguez,198,CANATRUX High Prairie,"High Prairie,",AB,1,99,210,ENG,73-Chts High Prairie
+75,Jade Hu,120,CANATRUX High River,High River,AB,1,99,205,ENG,75-Chts High River
+80,Willow Guzman,138,CANATRUX Humboldt,Humboldt,SK,1,99,215,ENG,80-Chts Humboldt
+85,Eva Chavez,126,CANATRUX Kamloops,Kamloops,BC,1,99,205,ENG,85-Chts Kamloops
+90,Rylee Howard,138,CANATRUX Kindersley,Kindersley,SK,1,99,205,ENG,90-Chts Kindersley
+93,Ivy Thompson,120,CANATRUX Lacombe,Lacombe,AB,1,99,205,ENG,93-Chts Lacombe
+95,Brooks Richardson,120,CANATRUX Leduc,Leduc,AB,1,99,210,ENG,95-Chts Leduc
+100,Miles Chang,120,CANATRUX Lethbridge,Lethbridge,AB,1,99,205,ENG,100-Chts Lethbridge
+110,Gianna Holmes,120,CANATRUX Lloydminster,Lloydminster,AB,1,99,210,ENG,110-Chts Lloydminster
+115,Jameson Thomas,120,CANATRUX Medicine Hat,Medicine Hat,AB,1,99,205,ENG,115-Chts Medicine Hat
+120,Ian Marquez,138,CANATRUX Moose Jaw,Moose Jaw,SK,1,99,215,ENG,120-Chts Moose Jaw
+130,Layla Owens,139,CANATRUX North Battleford,North Battleford,SK,1,99,210,ENG,130-Chts North Battleford
+140,Jameson Pena,120,CANATRUX PeCHTS River,Peace River,AB,1,99,210,ENG,140-Chts PeCzyRiver
+145,Chloe Dixon,139,CANATRUX Prince Albert,Prince Albert,SK,1,99,215,ENG,145-Chts Prince Albert
+150,Bella Wu,120,CANATRUX Calgary,Calgary,AB,1,99,205,ENG,150-Chts Calgary
+160,Emily Zheng,139,CANATRUX Regina,Regina,SK,1,99,215,ENG,160-Chts Regina
+165,Ruby Alexander,198,CANATRUX Rocky Mtn House,Rocky Mountain House,AB,1,99,205,ENG,165-Chts Rocky Mtn House
+168,Theodore Bui,128,CANATRUX Salmon Arm,Salmon Arm,BC,1,99,205,ENG,168-Chts Salmon Arm
+170,Jayden Rogers,139,CANATRUX Saskatoon,Saskatoon,SK,1,99,215,ENG,170-Chts Saskatoon
+171,Silas Ross,198,CANATRUX Sherwood Park,Sherwood Park,AB,1,99,210,ENG,171-Chts Sherwood Park
+173,Wyatt Dinh,120,CANATRUX Spruce Grove,Spruce Grove,AB,1,99,210,ENG,173-Chts Spruce Grove
+175,Jose Wong,120,CANATRUX St. Paul,St. Paul,AB,1,99,210,ENG,175-Chts St. Paul
+178,Sadie Singh,124,CANATRUX Steinbach,Steinbach,MB,1,99,215,ENG,178-Chts Steinbach
+180,Lucas Richardson,120,CANATRUX Stettler,Stettler,AB,1,99,205,ENG,180-Chts Stettler
+183,Liliana Chang,198,CANATRUX Strathmore,Strathmore,AB,1,99,205,ENG,183-Chts Strathmore
+185,Parker Joseph,124,CANATRUX Swan River,Swan River,MB,1,99,215,ENG,185-Chts Swan River
+190,Elizabeth Vasquez,139,CANATRUX Swift Current,Swift Current,SK,1,99,205,ENG,190-Chts Swift Current
+200,Jacob Moore,120,CANATRUX Vegreville,Vegreville,AB,1,99,210,ENG,200-Chts Vegreville
+205,Luna Harp,120,CANATRUX Westlock,Westlock,AB,1,99,210,ENG,205-Chts Westlock
+210,Bella Tran,120,CANATRUX Wetaskiwin,Wetaskiwin,AB,1,99,210,ENG,210-Chts Wetaskiwin
+220,Samantha Ford,139,CANATRUX Weyburn,Weyburn,SK,1,99,215,ENG,220-Chts Weyburn
+223,Avery Gutierrez,124,CANATRUX Winkler,Winkler,MB,1,99,215,ENG,223-Chts Winkler
+225,Kayden Ortiz,124,CANATRUX Winnipeg - Nairn,Winnipeg,MB,1,99,215,ENG,225-Chts Winnipeg - Nairn
+227,Caroline Sandoval,124,CANATRUX Winnipeg - Pembina,Winnipeg,MB,1,99,215,ENG,227-Chts Winnipeg - Pembina
+230,Thomas Silva,139,CANATRUX Yorkton,Yorkton,SK,1,99,215,ENG,230-Chts Yorkton
+300,Peyton Wright,120,MainStreet Hardware Blackfalds,Blackfalds,AB,1,99,220,ENG,300-MainStreet Hardware Blackfalds
+301,Axel Oh,198,MainStreet Hardware Vermilion,Vermilion,AB,1,99,220,ENG,301-MainStreet Hardware Vermilion
+302,Landon Gonzales,198,MainStreet Hardware Ponoka,Ponoka,AB,1,99,220,ENG,302-MainStreet Hardware Ponoka
+303,Nova Lin,124,CHTS The Pas Hardware Canada,THE PAS,MB,1,99,220,ENG,303-CzyThe Pas Hardware Canada
+304,Ethan Sanchez,126,CHTS Manning Hardware,Manning,AB,1,99,220,ENG,304-CzyManning Hardware
+305,Jade Pham,128,CHTS Port Hardy Hardware,Port Hardy,BC,1,99,220,ENG,305-CzyPort Hardy Hardware
+400,Logan Reyes,122,CHTS East Warehouse,LONDON,ON,2,40,992,ENG,400-Chts East Warehouse
+410,Julian Marquez,122,Warranty Warehouse East,LONDON,ON,2,410,992,ENG,410-Warranty Warehouse East
+451,Ivy Chau,120,Administration,Calgary,AB,999,99,99,ENG,451-Administration
+452,Jordan Kumar,120,Merchandising,Calgary,AB,999,99,99,ENG,452-Merchandising
+453,Sophia Gutierrez,120,Data Processing,Calgary,AB,999,99,99,NULL,453-Data Processing
+454,Ella Martinez,198,HR/CULTURE,Calgary,AB,999,99,99,ENG,454-HR/CULTURE
+455,Eli Dang,120,Accounting,Calgary,AB,999,99,99,ENG,455-Accounting
+456,Lillian Lewis,120,Corporate,Calgary,AB,999,99,99,ENG,456-Corporate
+457,Axel Ramirez,198,Store Operations,Calgary,AB,999,99,99,ENG,457-Store Operations
+458,Leonardo Carter,198,Warranty Depot,Calgary,AB,999,99,99,ENG,458-Warranty Depot
+459,Jeremiah Cheng,198,Marketing,Calgary,AB,999,99,99,ENG,459-Marketing
+460,Gianna Jones,198,CUSTOMER EXPERIENCE,Calgary,AB,999,99,99,ENG,460-CUSTOMER EXPERIENCE
+461,Austin Chow,199,Merch Planning & Replen,Calgary,AB,999,99,99,ENG,461-Merch Planning & Replen
+462,Ella Chen,199,Asset Protection,Calgary,AB,999,99,99,ENG,462-Asset Protection
+463,Savannah Morales,199,CHTS OPERATIONS,Calgary,AB,999,99,99,ENG,463-CzyOPERATIONS
+464,Julian Ford,125,OPPORTUNITY DEVELOPMENT CO-OP,Calgary,AB,999,99,99,ENG,464-OPPORTUNITY DEVELOPMENT CO-OP
+465,Serenity Martin,125,ONLINE SEEDS,Calgary,AB,999,99,99,ENG,465-ONLINE SEEDS
+466,Olivia Xi,126,Project Management Office,Calgary,AB,999,99,99,ENG,466-Project Management Office
+467,Kai Le,120,ECOMMERCE,Calgary,AB,999,99,99,ENG,467-ECOMMERCE
+500,Serenity Cao,120,CHTS Industries LP,Calgary,AB,999,99,99,ENG,500-Chts Industries LP
+501,Robert Patel,120,Liberty Office,Calgary County,AB,999,99,99,ENG,501-Liberty Office
+555,Harper Castillo,120,Warranty Warehouse,Calgary,AB,1,555,991,ENG,555-Warranty Warehouse
+751,Penelope Mai,122,CHTS CPS WHOLESALE WEBSITE,LONDON,ON,999,40,99,ENG,751-Chts CPS WHOLESALE WEBSITE
+777,Parker Lai,120,Wholesale Warehouse,Calgary,AB,1,99,991,NULL,777-Wholesale Warehouse
+800,Ruby Kaur,199,3RD WARHOUSE - FMI CALGARY,CALGARY,AB,1,99,991,ENG,800-3RD WARHOUSE - FMI CALGARY
+888,Charles Simmons,120,Sample Account,Calgary,AB,999,99,99,NULL,888-Sample Account
+999,Jayden Luu,120,CHTS West Warehouse,Calgary,AB,1,99,991,ENG,999-Chts West Warehouse
+1000,Ryan Reed,122,CANATRUX L.P. HEAD OFFICE,LONDON,ON,999,40,99,ENG,1000-Chts L.P. HEAD OFFICE
+1175,Grayson Hwang,122,CANATRUX  RELOCATE,ALLISTON,ON,999,40,99,ENG,1175-Chts  RELOCATE
+1181,Ezra Tan,122,CANATRUX - 181 TILLSONBURG,TILLSONBURG,ON,2,40,12,ENG,1181-Chts - 181 TILLSONBURG
+1182,David Ha,122,CANATRUX - 182 STRATFORD,STRATFORD,ON,2,40,12,ENG,1182-Chts - 182 STRATFORD
+1183,Lillian Vang,122,CANATRUX - 183 LISTOWEL,LISTOWEL,ON,2,40,13,ENG,1183-Chts - 183 LISTOWEL
+1185,Sofia Zhang,122,CANATRUX - 185 LONDON,LONDON,ON,2,40,12,ENG,1185-Chts - 185 LONDON
+1186,Athena Daniels,123,CANATRUX - 186 WOODSTOCK,WOODSTOCK,ON,2,40,12,ENG,1186-Chts - 186 WOODSTOCK
+1189,Jameson Shin,123,CANATRUX - 189 BRANTFORD,BRANTFORD,ON,2,40,12,ENG,1189-Chts - 189 BRANTFORD
+1190,Everly Avila,123,CANATRUX - 190,KITCHENER,ON,999,40,99,ENG,1190-Chts - 190
+1191,Liam Nelson,123,CANATRUX - 191 KITCHENER S,KITCHENER,ON,2,40,13,ENG,1191-Chts - 191 KITCHENER S
+1192,Theodore Lai,123,CANATRUX - 192,LONDON,ON,999,40,99,ENG,1192-Chts - 192
+1193,Caroline Do,123,CANATRUX - 193 SIMCOE,SIMCOE,ON,2,40,12,ENG,1193-Chts - 193 SIMCOE
+1194,Josiah Ramos,123,CANATRUX - 194 CHATHAM,CHATHAM,ON,2,40,12,ENG,1194-Chts - 194 CHATHAM
+1195,Colton Alexander,123,CANATRUX - 195 STRATHROY,STRATHROY,ON,2,40,12,ENG,1195-Chts - 195 STRATHROY
+1196,Charles Ramos,123,CANATRUX - 196 LAMBETH,LONDON,ON,2,40,12,ENG,1196-Chts - 196 LAMBETH
+1197,Ellie Wilson,123,CANATRUX - 197 GUELPH,GUELPH,ON,2,40,13,ENG,1197-Chts - 197 GUELPH
+1198,Peyton Powell,123,CANATRUX - 198 ALLISTON,ALLISTON,ON,2,40,13,ENG,1198-Chts - 198 ALLISTON
+1199,Hailey Rojas,123,CANATRUX - 199 GRIMSBY,GRIMSBY,ON,2,40,13,ENG,1199-Chts - 199 GRIMSBY
+1200,Kai Singh,123,CANATRUX - 200 OWEN SOUND,OWEN SOUND,ON,2,40,13,ENG,1200-Chts - 200 OWEN SOUND
+1201,Ryan Rivera,123,CANATRUX - 201 BELLEVILLE,BELLEVILLE,ON,2,40,14,ENG,1201-Chts - 201 BELLEVILLE
+1202,Everett Lu,123,CANATRUX - 202 ST THOMAS,ST THOMAS,ON,2,40,12,ENG,1202-Chts - 202 ST THOMAS
+1203,Layla Nunez,123,CANATRUX - 203 BOWMANVILLE,BOWMANVILLE,ON,2,40,14,ENG,1203-Chts - 203 BOWMANVILLE
+1204,Liliana Collins,123,CANATRUX - 204 PETERBOROUGH,PETERBOROUGH,ON,2,40,14,ENG,1204-Chts - 204 PETERBOROUGH
+1205,Ezekiel Jenkins,123,CANATRUX - 205 CAMBRIDGE,CAMBRIDGE,ON,2,40,12,ENG,1205-Chts - 205 CAMBRIDGE
+1206,Christopher Wang,123,CANATRUX - 206 ESSEX,ESSEX,ON,2,40,12,ENG,1206-Chts - 206 ESSEX
+1207,Savannah Rodriguez,123,CANATRUX - 207 GODERICH,GODERICH,ON,2,40,12,ENG,1207-Chts - 207 GODERICH
+1208,Lyla Turner,123,CANATRUX - 208 WALKERTON,WALKERTON,ON,2,40,13,ENG,1208-Chts - 208 WALKERTON
+1209,Adrian Ngo,123,CANATRUX - 209 SARNIA,SARNIA,ON,2,40,12,ENG,1209-Chts - 209 SARNIA
+1210,Aria Juarez,123,CANATRUX - 210 HYDE PARK,LONDON,ON,2,40,12,ENG,1210-Chts - 210 HYDE PARK
+1211,Audrey Ramos,123,CANATRUX - 211 ORANGEVILLE,ORANGEVILLE,ON,2,40,13,ENG,1211-Chts - 211 ORANGEVILLE
+1212,Hazel Cho,123,CANATRUX - 212 LINDSAY,LINDSAY,ON,2,40,14,ENG,1212-Chts - 212 LINDSAY
+1213,Iris Chung,123,CANATRUX - 213 BROCKVILLE,BROCKVILLE,ON,2,40,14,ENG,1213-Chts - 213 BROCKVILLE
+1214,Thomas Rodriguez,123,CANATRUX - 214 SMITH FALLS,SMITH FALLS,ON,2,40,14,ENG,1214-Chts - 214 SMITH FALLS
+1215,Avery Lo,123,CANATRUX - 215 CORNWALL,CORNWALL,ON,2,40,14,ENG,1215-Chts - 215 CORNWALL
+1216,Gabriel Bell,123,CANATRUX - 216 ST JACOBS,WATERLOO,ON,2,40,13,ENG,1216-Chts - 216 ST JACOBS
+1217,Gianna Walker,123,CANATRUX - 217 ARNPRIOR,ARNPRIOR,ON,2,40,14,ENG,1217-Chts - 217 ARNPRIOR
+1218,Axel Bailey,129,CANATRUX - 218 LEAMINGTON,LEAMINGTON,ON,2,40,12,ENG,1218-Chts - 218 LEAMINGTON
+1219,Scarlett Green,129,CANATRUX - 219 DUNNVILLE,DUNNVILLE,ON,999,40,99,ENG,1219-Chts - 219 DUNNVILLE
+1220,Jackson Wong,129,CANATRUX - 220 KEMPTVILLE,KEMPTVILLE,ON,2,40,14,ENG,1220-Chts - 220 KEMPTVILLE
+1221,Jack Phillips,121,CANATRUX - 221 BLANK,NOWHERE,ON,999,40,99,ENG,1221-Chts - 221 BLANK
+1222,Scarlett Delgado,121,CANATRUX - 222 SAULT STE MA,SAULT ST MARIE,ON,2,40,13,ENG,1222-Chts - 222 SAULT STE MA
+1223,Jack Rogers,121,CANATRUX - 223 HAWKSBURY,HAWKSBURY,ON,999,40,99,ENG,1223-Chts - 223 HAWKSBURY
+1224,Violet Huynh,121,CANATRUX - 224 ROCKLAND,ROCKLAND,ON,2,40,14,ENG,1224-Chts - 224 ROCKLAND
+1226,Victoria Park,121,CANATRUX - 226 NEW LISKEARD,NEW LISKEARD,ON,2,40,13,ENG,1226-Chts - 226 NEW LISKEARD
+1227,Elizabeth Rodriguez,121,CANATRUX - 227 UXBRIDGE,UXBRIDGE,ON,2,40,14,ENG,1227-Chts - 227 UXBRIDGE
+1228,Samuel Kumar,121,CANATRUX - 228 COLLINGWOOD,COLLINGWOOD,ON,2,40,13,ENG,1228-Chts - 228 COLLINGWOOD
+1229,Zoe Maldonado,121,CANATRUX - 229 MOUNT FOREST,MOUNT FOREST,ON,2,40,13,ENG,1229-Chts - 229 MOUNT FOREST
+1230,Natalia Richardson,121,CANATRUX - 230 BRADFORD,BRADFORD,ON,2,40,13,ENG,1230-Chts - 230 BRADFORD
+1231,Madeline Contreras,121,CANATRUX - 231 ST CATHARINE,ST CATHARINES,ON,2,40,13,ENG,1231-Chts - 231 ST CATHARINE
+1232,Raelynn Espinoza,121,CANATRUX - 232 PEMBROKE,PEMBROKE,ON,2,40,14,ENG,1232-Chts - 232 PEMBROKE
+1233,Noah Rojas,121,CANATRUX - 233 SUDBURY,SUDBURY,ON,2,40,13,ENG,1233-Chts - 233 SUDBURY
+1234,Jack Ramos,121,CANATRUX - 234 WELLAND,WELLAND,ON,2,40,13,ENG,1234-Chts - 234 WELLAND
+1300,Clara Le,124,CANATRUX - 300 BRANDON,Brandon,MB,999,40,99,ENG,1300-Chts - 300 BRANDON
+1301,Chloe Yoon,124,CANATRUX - 301 DAUPHIN,DAUPHIN,MB,999,40,99,ENG,1301-Chts - 301 DAUPHIN
+1302,Abigail Simmons,124,CANATRUX - 302 WINKLER,Winkler,MB,999,40,99,ENG,1302-Chts - 302 WINKLER
+1380,Riley King,121,CANATRUX - 380,LONDON,ON,999,40,99,ENG,1380-Chts - 380
+1381,Naomi Lee,121,CANATRUX - 381,LONDON,ON,999,40,99,ENG,1381-Chts - 381
+1382,Caleb Jones,121,CANATRUX - 382,LONDON,ON,999,40,99,ENG,1382-Chts - 382
+1383,Peyton Alvarado,121,CANATRUX - 383,LONDON,ON,999,40,99,ENG,1383-Chts - 383
+1384,Luca Liu,121,CANATRUX - 384,LONDON,ON,999,40,99,ENG,1384-Chts - 384
+1385,Christian Johnson,121,CANATRUX - 385,LONDON,ON,999,40,99,ENG,1385-Chts - 385
+1386,Kinsley Gonzales,121,CANATRUX - 386 SAMPLES,LONDON,ON,999,40,99,ENG,1386-Chts - 386 SAMPLES
+1387,Hunter Yoon,121,CANATRUX 387,LONDON,ON,999,40,99,ENG,1387-Chts 387
+1390,Ava Carrillo,132,CANATRUX Events,LONDON,ON,999,99,99,ENG,1390-Chts Events
+1401,Cora Mejia,122,AMG 3PL,MISSISSAUGA,ON,999,1401,99,ENG,1401-AMG 3PL
+1402,Julian Harris,122,CANATRUX - 402,LONDON,ON,999,1402,99,ENG,1402-Chts - 402
+1403,Anthony Espinoza,122,CANATRUX - 403,LONDON,ON,999,1403,99,ENG,1403-Chts - 403
+1404,Aubrey Ruiz,122,CANATRUX - 404,LONDON,ON,999,1404,99,ENG,1404-Chts - 404
+1405,Piper Tang,122,CANATRUX - 405,LONDON,ON,999,1405,99,ENG,1405-Chts - 405
+1406,Colton Delgado,122,CANATRUX - 406,LONDON,ON,999,140,99,ENG,1406-Chts - 406
+1407,Madeline Chung,122,CANATRUX - 407,LONDON,ON,999,1407,99,ENG,1407-Chts - 407
+1408,Ariana Sharma,122,CANATRUX - 408,LONDON,ON,999,1408,99,ENG,1408-Chts - 408
+1500,Elias Dixon,121,CANATRUX - 500 MILTON,MILTON,ON,2,40,13,ENG,1500-Chts - 500 MILTON
+1510,Owen Guerrero,121,CANATRUX - 510 KINGSTON,KINGSTON,ON,2,40,14,ENG,1510-Chts - 510 KINGSTON
+1511,Lucas Lo,121,CANATRUX - 511 ORILLIA,ORILLIA,ON,2,40,14,ENG,1511-Chts - 511 ORILLIA
+1512,Hunter Mitchell,121,CANATRUX - 512 BARRIE,BARRIE,ON,2,40,13,ENG,1512-Chts - 512 BARRIE
+1513,Eliana Bailey,121,CANATRUX - 513 EMBRO,EMBRO,ON,999,40,99,ENG,1513-Chts - 513 EMBRO
+1514,Gabriella Choi,121,CANATRUX - 514 CLEARANCE,BRANTFORD,ON,999,40,99,ENG,1514-Chts - 514 CLEARANCE
+1700,Evelyn Alvarado,121,CANATRUX VILLAGER,LONDON,ON,999,40,99,ENG,1700-Chts VILLAGER
+1701,Kinsley Liang,125,West Promo for Ecomm,Calgary,AB,999,99,99,ENG,1701-West Promo for Ecomm
+1713,Wyatt Chan,121,CHTS VILLAGER-713 BARRIE,BARRIE,ON,999,40,99,ENG,1713-Chts VILLAGER-713 BARRIE
+1714,Sarah Johnson,121,CHTS VILLAGER-714 AYLMER,AYLMER,ON,999,40,99,ENG,1714-Chts VILLAGER-714 AYLMER
+1750,Brooks Evans,122,CANATRUX - LICENSING,LONDON,ON,999,40,99,ENG,1750-Chts - LICENSING
+1752,Isaiah Dixon,122,Online Development,LONDON,ON,999,40,99,ENG,1752-Online Development
+1790,Addison Lo,122,CANATRUX - STORE TO STORE,LONDON,ON,999,40,99,ENG,1790-Chts - STORE TO STORE
+1889,Nolan Howard,122,CANATRUX - STORE RENO 189,BRANTFORD,ON,999,40,99,ENG,1889-Chts - STORE RENO 189
+1891,Paisley Dominguez,122,CANATRUX - STORE OPERATIONS,LONDON,ON,999,40,99,ENG,1891-Chts - STORE OPERATIONS
+1892,Eliana Ho,122,CANATRUX   PURCHASING,LONDON,ON,999,40,99,ENG,1892-Chts   PURCHASING
+1893,Charles Miller,122,CANATRUX - STORE PLANNING,LONDON,ON,999,40,99,ENG,1893-Chts - STORE PLANNING
+1894,Mia Jiang,122,CANATRUX - REAL ESTATE/DEV,LONDON,ON,999,40,99,ENG,1894-Chts - REAL ESTATE/DEV
+1895,Skylar Parker,122,CANATRUX - MGRS IN TRAINING,LONDON,ON,999,40,99,ENG,1895-Chts - MGRS IN TRAINING
+1896,Zoey Leung,122,CANATRUX - NEW BUS DEV,LONDON,ON,999,40,99,ENG,1896-Chts - NEW BUS DEV
+1897,Austin Moua,122,CANATRUX - CENTRAL OPERATIO,LONDON,ON,999,40,99,ENG,1897-Chts - CENTRAL OPERATIO
+1900,Christopher Robinson,122,CANATRUX  STORE OP,LONDON,ON,999,40,99,ENG,1900-Chts  STORE OP
+1905,Jayden Zhang,122,CANATRUX  STORE OP,LONDON,ON,999,40,99,ENG,1905-Chts  STORE OP
+1930,Eva Jimenez,129,CANATRUX  HUMAN RES,LONDON,ON,999,40,99,ENG,1930-Chts  HUMAN RES
+1945,Ian Ma,129,CANATRUX  PROJ MGR,LONDON,ON,999,40,99,ENG,1945-Chts  PROJ MGR
+1960,Luna Castro,129,CANATRUX  GENERAL ADMIN,LONDON,ON,999,40,99,ENG,1960-Chts  GENERAL ADMIN
+1961,Nolan Brooks,129,CANATRUX  MERCHANDISING,LONDON,ON,999,40,99,ENG,1961-Chts  MERCHANDISING
+1962,Jayden Jones,129,CANATRUX  ACCOUNTING,LONDON,ON,999,40,99,ENG,1962-Chts  ACCOUNTING
+1963,Asher Hsu,129,CANATRUX  INFO TECH,LONDON,ON,999,40,99,ENG,1963-Chts  INFO TECH
+1964,Greyson Lim,129,CANATRUX  MERCH OPS,LONDON,ON,999,40,99,ENG,1964-Chts  MERCH OPS
+1965,Chloe Miller,129,CANATRUX  ADVERTISING,LONDON,ON,999,40,99,ENG,1965-Chts  ADVERTISING
+1966,Jaxson Brooks,129,CANATRUX  HUMAN RES,LONDON,ON,999,40,99,ENG,1966-Chts  HUMAN RES
+1967,Jack Perez,130,CANATRUX  MKT GRAPHIC,LONDON,ON,999,40,99,ENG,1967-Chts  MKT GRAPHIC
+2015,Eliana Ha,124,CANATRUX Bedford,Bedford,NS,2,40,14,ENG,2015-Chts Bedford
+2197,Ivy Rojas,130,CANATRUX - 2197 GUELPH RD,GUELPH,ON,2,40,12,ENG,2197-Chts - 2197 GUELPH RD
+2751,Ruby Reed,130,PVY WHOLESALE BOOKING ORDERS,LONDON,ON,999,40,99,ENG,2751-PVY WHOLESALE BOOKING ORDERS
+2999,Chloe Kim,125,CHTS West Reserve,Calgary,AB,1,99,991,ENG,2999-Chts West Reserve
+6001,Leonardo Ng,126,Temp Relocate Calgary,Calgary,AB,1,99,205,ENG,6001-Temp Relocate Calgary
+6002,Peyton Edwards,126,Temp Relocate PeCHTS River,Peace River,AB,1,99,4,ENG,6002-Temp Relocate PeCzyRiver
+6003,Eliana Turner,136,Amazon London,LONDON,ON,999,40,99,ENG,6003-Amazon London
+71003,Hudson Wong,130,Williams & Scott CHTS Hardware,Englehart,ON,902,40,51,ENG,71003-Williams & Scott CzyHardware
+71005,Ryan Yi,130,Thorndale CHTS Hardware,Thorndale,ON,902,40,50,ENG,71005-Thorndale CzyHardware
+71007,Christopher Luu,138,CHTS Comptoir Agricole Salette,Notre-Dame-de-la-Sal,QC,902,40,53,FRA,71007-CzyComptoir Agricole Salette
+71010,James Han,138,CHTS Quincaillerie Bertrand,ST Cecile de Mashama,QC,902,40,53,FRA,71010-CzyQuincaillerie Bertrand
+71011,Jaxson Ayala,138,CHTS Schefferville,Schefferville,QC,902,40,56,FRA,71011-CzySchefferville
+71012,Levi James,138,CHTS DF Rouleau,Les Hauteurs,QC,902,40,56,FRA,71012-CzyDF Rouleau
+71015,Savannah Lee,126,Fraser Lake CHTS Building Centr,Fraser Lake,BC,901,99,42,ENG,71015-Fraser Lake CzyBuilding Centr
+71016,Grayson Carrillo,138,CHTS Quincaillerie JPJ,Saint-Alexandre-D'Ib,QC,902,40,53,FRA,71016-CzyQuincaillerie JPJ
+71017,Mia Grant,126,Cameo CHTS Hardware,100 Mile House,BC,901,99,40,ENG,71017-Cameo CzyHardware
+71018,Maverick Hwang,138,CHTS Centre De rÃ©novation Sain,Saint-Paulin,QC,902,40,53,FRA,71018-CzyCentre De rÃ©novation Sain
+71019,Matthew Harris,136,CHTS Quincaillerie MatÃ©riaux P,Les CÃ¨dres,QC,902,40,53,FRA,71019-CzyQuincaillerie MatÃ©riaux P
+71021,Emilia Barnes,136,CHTS L'Accommodeur Malouin,Port-Menier,QC,902,40,56,FRA,71021-CzyL'Accommodeur Malouin
+71022,Aaron Powell,124,CHTS Hardware Drummond,Drummond,NB,902,40,56,FRA,71022-CzyHardware Drummond
+71023,Jameson Vargas,124,Entreprises Shippagan CHTS,Shippagan,NB,902,40,56,FRA,71023-Entreprises Shippagan Ace
+71024,Eli Richardson,127,CHTS Building Centre Kaslo,Kaslo,BC,901,99,40,ENG,71024-CzyBuilding Centre Kaslo
+71025,Eloise Perry,127,McMynn's CHTS Building Centre,Midway,BC,901,99,40,ENG,71025-McMynn's CzyBuilding Centre
+71028,Sophie Griffin,136,CHTS Magasin GÃ©nÃ©ral,Rouyn-Noranda,QC,902,40,53,FRA,71028-CzyMagasin GÃ©nÃ©ral
+71029,Kai Phillips,136,CHTS Armand Dumaresq mat. de co,GaspÃ©,QC,902,40,56,FRA,71029-CzyArmand Dumaresq mat. de co
+71031,Carter Simmons,130,CHTS Peel Hardware & Supply,Caledon,ON,902,40,51,ENG,71031-CzyPeel Hardware & Supply
+71032,Liam Jimenez,139,CHTS Leask Community Hardware,Leask,SK,901,99,48,ENG,71032-CzyLeask Community Hardware
+71033,Luca Powell,199,Sundre CHTS Hardware,Sundre,AB,901,99,43,ENG,71033-Sundre CzyHardware
+71034,Emilia Xu,130,Grand Valley CHTS Hardware,Grand Valley,ON,902,40,51,ENG,71034-Grand Valley CzyHardware
+71035,Ian Cheng,127,CHTS Victory Building Centre,Mackenzie,BC,901,99,42,ENG,71035-CzyVictory Building Centre
+71036,Penelope Chan,127,Lake Country CHTS Hardware,Lake Country,BC,901,99,40,ENG,71036-Lake Country CzyHardware
+71037,Sofia Vasquez,127,Port Kells CHTS Building Centre,Surrey,BC,901,99,40,ENG,71037-Port Kells CzyBuilding Centre
+71038,Dylan Khan,136,Quincaillerie Robichaud Inc.,Caplan,QC,902,40,56,FRA,71038-Quincaillerie Robichaud Inc.
+71040,Anthony Baker,127,Parkland CHTS Building Centre,SICAMOUS,BC,901,99,40,ENG,71040-Parkland CzyBuilding Centre
+71041,Nevaeh Clark,136,Quinc. B.L. (Mont-Louis) Inc.,Mont-Louis,QC,902,40,56,FRA,71041-Quinc. B.L. (Mont-Louis) Inc.
+71042,Carter Luu,136,Mat. Gosselin Inc.,Cap-Chat,QC,902,40,56,FRA,71042-Mat. Gosselin Inc.
+71043,Elias Vasquez,137,Le Centre du Bricoleur CHTS,Falardeau,QC,902,40,56,FRA,71043-Le Centre du Bricoleur Ace
+71045,Jordan Ngo,136,CHTS Quincaillerie Decarie,Montreal,QC,902,40,53,ENG,71045-CzyQuincaillerie Decarie
+71046,Jackson Hu,137,CHTS Distribution Rioux,Saint-Louis-du-Ha-Ha,QC,902,40,56,FRA,71046-CzyDistribution Rioux
+71047,Xavier Patel,127,ED's CHTS Building Supplies,Fort Nelson,BC,901,99,42,ENG,71047-ED's CzyBuilding Supplies
+71048,Robert Soto,127,AMS CHTS Building Centre,Queen Charlotte,BC,901,99,42,ENG,71048-AMS CzyBuilding Centre
+71050,Everleigh Bell,137,Quincaillerie CHTS Arthur Rives,Sainte-Julienne,QC,902,40,53,FRA,71050-Quincaillerie CzyArthur Rives
+71051,Eliana Trinh,137,CHTS-Les Materiaux du Lac,Lac-des-Aigles,QC,902,40,56,FRA,71051-Ace-Les Materiaux du Lac
+71052,Oliver Ford,137,Ctr. RÃ©novation Port-Daniel,Port-Daniel,QC,902,40,56,FRA,71052-Ctr. RÃ©novation Port-Daniel
+71054,Ivy Liu,139,CHTS Hardware Air Ronge,Air Ronge,SK,901,99,48,ENG,71054-CzyHardware Air Ronge
+71055,Madelyn Kang,137,Distribution Rioux (Degelis),Degelis,QC,902,40,56,FRA,71055-Distribution Rioux (Degelis)
+71056,Jayden Dixon,139,Biggar CHTS Building Centre,Biggar,SK,901,99,43,ENG,71056-Biggar CzyBuilding Centre
+71057,Nevaeh Butler,139,Moss Hardware,Indian Head,SK,901,99,48,ENG,71057-Moss Hardware
+71058,Nevaeh Jiang,127,Island Home and Garden Store,Gabriola,BC,901,99,40,ENG,71058-Island Home and Garden Store
+71060,Chloe Reyes,127,CHTS Hardware Walnut Grove,Langley,BC,901,99,40,ENG,71060-CzyHardware Walnut Grove
+71061,Lucas Luong,127,CHTS Agassiz Building Centre,Agassiz,BC,901,99,40,ENG,71061-CzyAgassiz Building Centre
+71062,Adam Medina,130,Miller's CHTS Country & Garden,Exeter,ON,902,40,50,ENG,71062-Miller's CzyCountry & Garden
+71063,Connor Howard,130,GG's Corner & Gift,Moosonee,ON,902,40,51,ENG,71063-GG's Corner & Gift
+71201,David Sanchez,126,CHTS Hardware Maple,Medicine Hat,AB,901,99,43,ENG,71201-CzyHardware Maple
+71202,Elias Hsu,126,CHTS Lealta Building Supplies,Lethbridge,AB,901,99,43,ENG,71202-CzyLealta Building Supplies
+71203,Christian Castro,140,Superior Home Renos & More Inc,Foam Lake,SK,901,99,48,ENG,71203-Superior Home Renos & More Inc
+71204,Wyatt Cheung,124,Pike's Building Centre CHTS,Salt Pond Burin,NF,902,40,59,ENG,71204-Pike's Building Centre Ace
+71205,Alice Luu,126,CHTS Hardware Red Earth Creek,Red Earth Creek,AB,901,99,42,ENG,71205-CzyHardware Red Earth Creek
+71206,Lucas Zhu,124,AMHERST COUNTRY CHTS STORE,AMHERST,NS,902,40,58,ENG,71206-AMHERST COUNTRY CzySTORE
+71207,Emily Hong,124,ANNAVALE COUNTRY CHTS STORE,Middleton,NS,902,40,58,ENG,71207-ANNAVALE COUNTRY CzySTORE
+71208,Luke Ramos,124,CORRIDOR COUNTRY CHTS STORE,MILFORD,NS,902,40,58,ENG,71208-CORRIDOR COUNTRY CzySTORE
+71209,Maya Gupta,124,COLCHESTER COUNTRY CHTS STORE,BIBLE HILL,NS,902,40,58,ENG,71209-COLCHESTER COUNTRY CzySTORE
+71210,Penelope Desai,140,2333395 ONT Inc.,Arthur,ON,902,40,50,ENG,71210-2333395 ONT Inc.
+71211,Asher Chan,124,Kitwanga General Store,North Kitwanga,BC,901,99,42,ENG,71211-Kitwanga General Store
+71212,Melody Luu,138,9071 - 0085 Quebec Inc.,Falardeau,QC,902,40,56,FRA,71212-9071 - 0085 Quebec Inc.
+71213,Mason Oh,140,Parkland Hardware And Building,Loon Lake,SK,901,99,48,ENG,71213-Parkland Hardware And Building
+71214,Henry Vang,136,Dobben's Hardware,Drayton,ON,902,40,50,ENG,71214-Dobben's Hardware
+71215,Violet Santiago,140,CHTS Hardware St Walburg,St Walburg,SK,901,99,48,ENG,71215-CzyHardware St Walburg
+71216,Ezekiel Brown,124,Greenridge Ventures Corp,Lumby,BC,901,99,40,ENG,71216-Greenridge Ventures Corp
+71217,Lily Rios,140,102138426 Saskatchewan LTD,Indian Head,SK,901,99,48,ENG,71217-102138426 Saskatchewan LTD
+71218,Peyton Allen,124,AMS CHTS (Dangerous Goods),Queen Charlotte,BC,901,99,42,ENG,71218-AMS Czy(Dangerous Goods)
+71219,Cameron Lo,120,Stettler Building Supplies Ltd,Stettler,AB,901,99,43,ENG,71219-Stettler Building Supplies Ltd
+71220,Lillian Cheng,124,Johnbo Investments Inc.,New Glasgow,NS,902,40,58,ENG,71220-Johnbo Investments Inc.
+71221,Logan Young,124,Carelton Co-Operative Limited,Florenceville-Bristo,NB,902,40,57,ENG,71221-Carelton Co-Operative Limited
+71501,Lucy Edwards,127,CHTS Hardware Ft St James,Fort St. James,BC,901,99,42,ENG,71501-CzyHardware Ft St James
+71502,Parker Thao,199,CHTS Hardware Beaverlodge,Beaverlodge,AB,901,99,42,ENG,71502-CzyHardware Beaverlodge
+71503,Ryan Vo,199,Buck Lake CHTS Hardware,Buck Lake,AB,901,99,43,ENG,71503-Buck Lake CzyHardware
+71505,Isabella Ngo,199,Marczak's CHTS Hardware,Lac La Biche,AB,901,99,43,ENG,71505-Marczak's CzyHardware
+71507,Leah Vega,199,CHTS Hardware Breton,Breton,AB,901,99,43,ENG,71507-CzyHardware Breton
+71509,Luna Edwards,128,Townsite CHTS Hardware,BELLA COOLA,BC,901,99,42,ENG,71509-Townsite CzyHardware
+71510,Hailey Lim,124,CHTS Hardware Rawluks,Gypsumville,MB,901,99,48,ENG,71510-CzyHardware Rawluks
+71511,Jaxson Liu,199,Allied CHTS Hardware Blairmore,Blairmore,AB,901,99,43,ENG,71511-Allied CzyHardware Blairmore
+71513,Roman Liang,124,CHTS Building Centre Glenboro,Glenboro,MB,901,99,48,ENG,71513-CzyBuilding Centre Glenboro
+71514,Ryan Huang,137,CHTS Hardware Mistissini,Mistissini,QC,902,40,55,ENG,71514-CzyHardware Mistissini
+71515,Santiago f Ross,199,Bow Island Hardware,Bow Island,AB,901,99,43,ENG,71515-Bow Island Hardware
+71516,Audrey Duong,130,GG's CHTS Hardware,Moose Factory,ON,902,40,51,ENG,71516-GG's CzyHardware
+71518,Layla Bell,199,Manning CHTS Hardware,Manning,AB,901,99,42,ENG,71518-Manning CzyHardware
+71519,Stella Daniels,128,CHTS Building Centre Vanderhoof,Vanderhoof,BC,901,99,42,ENG,71519-CzyBuilding Centre Vanderhoof
+71520,Ayla Ma,128,CHTS Building Centre Oliver,OLIVER,BC,901,99,40,ENG,71520-CzyBuilding Centre Oliver
+71521,Matthew Avila,128,CHTS Hardware Port Coquitlam,Port Coquitlam,BC,901,99,40,ENG,71521-CzyHardware Port Coquitlam
+71522,Elias Rojas,124,CHTS Hardware McCreary,McCreary,MB,901,99,48,ENG,71522-CzyHardware McCreary
+71523,Leonardo Li,140,CHTS Hardware,St Walburg,SK,901,99,48,ENG,71523-CzyHardware
+71524,Gianna Lim,128,CHTS Hardware Golden,Golden,BC,901,99,43,ENG,71524-CzyHardware Golden
+71525,Bella Morales,125,CHTS Hardware Barrhead,Barrhead,AB,901,99,42,ENG,71525-CzyHardware Barrhead
+71527,Landon Reyes,130,Cotnam CHTS Hardware,Chesterville,ON,902,40,53,ENG,71527-Cotnam CzyHardware
+71528,Eliza Kang,125,CHTS Hardware Oyen,Oyen,AB,901,99,43,ENG,71528-CzyHardware Oyen
+71529,Noah Ma,140,Andy's CHTS Hardware,Wikwemikong,ON,902,40,51,ENG,71529-Andy's CzyHardware
+71530,Joseph Tan,128,Chemainus CHTS Hardware,Chemainus,BC,901,99,40,ENG,71530-Chemainus CzyHardware
+71531,Gabriel Ahmed,137,CHTS Hardware Chisasibi,Chisasibi,QC,902,40,55,ENG,71531-CzyHardware Chisasibi
+71532,Lucas Alexander,131,CHTS Country & Garden - Orono,Orono,ON,902,40,51,ENG,71532-CzyCountry & Garden - Orono
+71533,Henry Vo,131,CHTS Country & Garden-Grafton,Grafton,ON,902,40,51,ENG,71533-CzyCountry & Garden-Grafton
+71534,Mila Han,131,Stayner Town and Country,STAYNER,ON,902,40,51,ENG,71534-Stayner Town and Country
+71535,Gabriel Reyes,125,CHTS Hardware Red Earth Creek,Red Earth Creek,AB,901,99,42,ENG,71535-CzyHardware Red Earth Creek
+71536,Genesis Herrera,131,Lucknow CHTS Country & Garden,Lucknow,ON,902,40,50,ENG,71536-Lucknow CzyCountry & Garden
+71537,Piper Garcia,125,CHTS Hardware Fort Vermilion,Fort Vermilion,AB,901,99,42,ENG,71537-CzyHardware Fort Vermilion
+71538,Olivia Vazquez,131,Glencoe CHTS Country & Garden,Glencoe,ON,902,40,50,ENG,71538-Glencoe CzyCountry & Garden
+71539,Leilani Ng,131,Almonte CHTS Country & Garden,ALMONTE,ON,902,40,53,ENG,71539-Almonte CzyCountry & Garden
+71540,Olivia Mendoza,131,Mitchell CHTS Country & Garden,MITCHELL,ON,902,40,50,ENG,71540-Mitchell CzyCountry & Garden
+71541,Skylar Xu,131,Verner Co-Op,VERNER,ON,902,40,51,ENG,71541-Verner Co-Op
+71542,Eloise Williams,131,Verner Co-Op,VERNER,ON,902,40,51,ENG,71542-Verner Co-Op
+71543,Jackson Maldonado,131,Noelville Co-Op,Noelville,ON,902,40,51,ENG,71543-Noelville Co-Op
+71544,Ayla Garza,132,Teeswater CHTS Country & Garden,TEESWATER,ON,902,40,50,ENG,71544-Teeswater CzyCountry & Garden
+71545,Carson Mai,132,Markdale CHTS Country & Garden,MARKDALE,ON,902,40,50,ENG,71545-Markdale CzyCountry & Garden
+71546,Luna Lu,132,Owen Sound CHTS Country & Garde,OWEN SOUND,ON,902,40,50,ENG,71546-Owen Sound CzyCountry & Garde
+71547,Anthony Ho,132,Belgrave CHTS Country & Garden,BELGRAVE,ON,902,40,50,ENG,71547-Belgrave CzyCountry & Garden
+71548,Clara Lopez,132,Chesley CHTS Country & Garden,CHESLEY,ON,902,40,50,ENG,71548-Chesley CzyCountry & Garden
+71549,Melody Woods,132,Wiarton CHTS Country & Garden,WIARTON,ON,902,40,50,ENG,71549-Wiarton CzyCountry & Garden
+71550,Matthew Simmons,132,Auburn CHTS Country & Garden,AUBURN,ON,902,40,50,ENG,71550-Auburn CzyCountry & Garden
+71551,Gabriella Carrillo,132,Dundalk CHTS Country & Garden,DUNDALK,ON,902,40,50,ENG,71551-Dundalk CzyCountry & Garden
+71552,Lydia Juarez,132,Mildmay CHTS Country & Garden,MILDMAY,ON,902,40,50,ENG,71552-Mildmay CzyCountry & Garden
+71553,Hunter Yi,133,County Farm Centre,PICTON,ON,902,40,53,ENG,71553-County Farm Centre
+71554,Christian Harris,131,Northern Feed & Supplies,NEW LISKEARD,ON,902,40,51,ENG,71554-Northern Feed & Supplies
+71555,Penelope Santos,131,Tem Ag Center,THORNLOE,ON,902,40,51,ENG,71555-Tem Ag Center
+71556,Nicholas Zhou,132,Co-Operative Regionale De Nipi,ECHO BAY,ON,902,40,51,ENG,71556-Co-Operative Regionale De Nipi
+71557,Christian Hong,133,Port Perry Feeds,PORT PERRY,ON,902,40,51,ENG,71557-Port Perry Feeds
+71559,Amelia Mehta,133,CHTS Hardware Michaud Levesqu,STURGEON FALLS,ON,902,40,51,ENG,71559-CzyHardware Michaud Levesqu
+71560,Axel Leung,133,CountrySense,FERGUS,ON,902,40,51,ENG,71560-CountrySense
+71561,Lucas Lam,133,Neighbours Country Store,ALLISTON,ON,902,40,51,ENG,71561-Neighbours Country Store
+71562,Jose Thompson,133,Elgin Feeds Pet Junction,AYLMER,ON,902,40,51,ENG,71562-Elgin Feeds Pet Junction
+71563,Alexander Pena,124,Yellowknife TRU Hardware,Yellowknife,NT,901,99,42,ENG,71563-Yellowknife TRU Hardware
+71564,Wesley Duong,133,Finch Feed & Seed Ltd.,FINCH,ON,902,40,53,ENG,71564-Finch Feed & Seed Ltd.
+71566,Adeline Maldonado,133,Farmers Plus,ELMIRA,ON,902,40,51,ENG,71566-Farmers Plus
+71569,Wyatt Aguilar,134,O'Connor Hardware,Oro-Medonte,ON,902,40,51,ENG,71569-O'Connor Hardware
+71570,Josephine Espinoza,134,McClelland's Hardware and Feed,DESBARATS,ON,902,40,51,ENG,71570-McClelland's Hardware and Feed
+71571,Quinn Lai,124,Low's Family Foods,Winnipeg,MB,901,99,48,ENG,71571-Low's Family Foods
+71572,Adeline Lai,134,Oxford Feed Supply,Ingersoll,ON,902,40,51,ENG,71572-Oxford Feed Supply
+71574,Connor Lai,128,Raine Mountain Hardware,Stewart,BC,901,99,42,ENG,71574-Raine Mountain Hardware
+71578,Christopher Vu,134,D.A. Williamson & Sons,MINDEMOYA,ON,902,40,51,ENG,71578-D.A. Williamson & Sons
+71581,Kinsley Woods,140,CHTS Hardware Watson,WATSON,SK,901,99,48,ENG,71581-CzyHardware Watson
+71584,Julia Ahmed,133,Mayer's CHTS Hardware & Buildin,SIOUX NARROWS,ON,901,99,48,ENG,71584-Mayer's CzyHardware & Buildin
+71586,Charlotte Tran,136,Johnny's Fresh Market,Sioux Lookout,ON,901,99,48,ENG,71586-Johnny's Fresh Market
+71590,Kai Vega,134,Harriston,HARRISTON,ON,902,40,50,ENG,71590-Harriston
+71591,Hailey Chin,134,Durham,DURHAM,ON,902,40,50,ENG,71591-Durham
+71592,Eleanor Xi,134,Hanover,HANOVER,ON,902,40,50,ENG,71592-Hanover
+71593,Lily Molina,134,Mount Forest,MOUNT FOREST,ON,902,40,50,ENG,71593-Mount Forest
+71595,Valentina Oh,133,County Farm Centre,MADOC,ON,902,40,53,ENG,71595-County Farm Centre
+71596,Kinsley Tran,133,County Farm Centre,Foxboro,ON,902,40,53,ENG,71596-County Farm Centre
+71597,Levi Vasquez,134,Norwich Feeds Ltd,Norwich,ON,902,40,51,ENG,71597-Norwich Feeds Ltd
+71598,Melody Leung,135,Kincardine Country Depot,Kincardine,ON,902,40,50,ENG,71598-Kincardine Country Depot
+71599,Jacob Cheng,125,TRU Hardware,Westlock,AB,901,99,42,ENG,71599-TRU Hardware
+71600,Liliana Valdez,135,Bird's Creek Feed & Hardware,Bancroft,ON,902,40,51,ENG,71600-Bird's Creek Feed & Hardware
+71601,Ezekiel Kumar,135,H & I Country Supply,Brinston,ON,902,40,53,ENG,71601-H & I Country Supply
+71602,Nathan Hong,125,TRU Hardware,Tofield,AB,901,99,43,ENG,71602-TRU Hardware
+71604,Elijah Washington,134,Princeton Sinden Feed and Seed,Princeton,ON,902,40,51,ENG,71604-Princeton Sinden Feed and Seed
+71605,Gianna Park,134,Burford Sinden Feed and Seed,Burford,ON,902,40,51,ENG,71605-Burford Sinden Feed and Seed
+71606,Ruby Rahman,135,Vankleek Hill Country Depot,VANKLEEK HILL,ON,902,40,53,ENG,71606-Vankleek Hill Country Depot
+71608,Ava Owens,128,Kitwanga General Store,KITWANGA,BC,901,99,42,ENG,71608-Kitwanga General Store
+71609,Abigail Chu,140,CHTS Hardware Eston,Eston,SK,901,99,43,ENG,71609-CzyHardware Eston
+71612,Ivy Rios,137,CHTS Hardware,Kuujjuaq,QC,902,40,55,ENG,71612-CzyHardware
+71613,Luca Hunter,137,CHTS Hardware (sealift),Salaberry-de-Valleyf,QC,902,40,55,ENG,71613-CzyHardware (sealift)
+71614,Everly Coleman,136,Thunder Bay Co-Op Farm Supplie,Thunder Bay,ON,901,99,48,ENG,71614-Thunder Bay Co-Op Farm Supplie
+71615,Dylan Aguilar,128,Lumby CHTS Building Center,Lumby,BC,901,99,40,ENG,71615-Lumby CzyBuilding Center
+71617,Natalie Stewart,135,Budson Farm and Feed,Erin,ON,902,40,51,ENG,71617-Budson Farm and Feed
+71618,Leonardo Mai,124,Freund Building Supplies,Fort Smith,NT,901,99,42,ENG,71618-Freund Building Supplies
+71622,Charlotte Lim,135,Ripley CHTS Hardware,Ripley,ON,902,40,50,ENG,71622-Ripley CzyHardware
+71624,Elena Campos,135,Schomberg TRU Country & Garden,Schomberg,ON,902,40,51,ENG,71624-Schomberg TRU Country & Garden
+71626,Ava Xiong,140,Earl's General Store,Carnduff,SK,901,99,48,ENG,71626-Earl's General Store
+71627,Olivia Marquez,140,Hatchet Lake Band Store,Prince Albert,SK,901,99,48,ENG,71627-Hatchet Lake Band Store
+71628,Claire Owens,137,Sibi Hardware Store,Wemindji,QC,902,40,55,ENG,71628-Sibi Hardware Store
+71630,Elias Diaz,134,Farmers Plus,Arthur,ON,902,40,51,ENG,71630-Farmers Plus
+71631,Aubrey Maldonado,137,Sibi Hardware Store,Wemindji,QC,902,40,55,ENG,71631-Sibi Hardware Store
+71632,Iris Vo,133,Huron Bay Co-Op. Inc. (Adminis,TEESWATER,ON,902,40,50,ENG,71632-Huron Bay Co-Op. Inc. (Adminis
+71633,Elena Sharma,132,Emo Feed CHTS Country & Garden,Emo,ON,901,99,48,ENG,71633-Emo Feed CzyCountry & Garden
+71634,Claire Vazquez,140,Leader Hardware,Leader,SK,901,99,43,ENG,71634-Leader Hardware
+71637,Ayla Espinoza,124,CHTS Hardware Swan River,Swan River,MB,901,99,48,ENG,71637-CzyHardware Swan River
+71644,Vivian Lim,135,Langdon CHTS Hardware,Fort Erie,ON,902,40,51,ENG,71644-Langdon CzyHardware
+71645,Leah Zheng,128,Port Hardy CHTS Hardware,Port Hardy,BC,901,99,40,ENG,71645-Port Hardy CzyHardware
+71646,Madison Xu,135,JAMIESON CAMPBELL,Monkland,ON,902,40,53,ENG,71646-JAMIESON CAMPBELL
+79100,Kayden Patel,135,Turtle Mountain Seed Co,Baden,ON,902,40,50,ENG,79100-Turtle Mountain Seed Co
+79400,Ava Aguilar,135,Viewing Only East Store,LONDON,ON,902,40,50,ENG,79400-Viewing Only East Store
+79999,Isaac Guzman,125,Viewing Only West,Calgary,AB,901,99,43,ENG,79999-Viewing Only West
