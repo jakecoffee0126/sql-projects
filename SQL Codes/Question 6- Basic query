@@ -1,0 +1,5 @@
+SELECT C.[Customer number], C.[First Name], C.[Last Name],C.[Address], C.[email]
+FROM Customers C
+LEFT JOIN Orders O
+ON C.[Customer number]=O.[Customer Number] AND (O.[Order date] BETWEEN '240101' AND '241231')
+WHERE O.[Order Date] IS NULL
