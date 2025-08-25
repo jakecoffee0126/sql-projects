@@ -1,0 +1,4 @@
+--Question 3 Find all the Products related to Filter and Price Greater than 50
+SELECT *
+FROM Products
+Where [SKU - Description] LIKE '%FILTER%' AND PRICE>50
