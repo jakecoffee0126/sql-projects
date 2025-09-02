@@ -18,7 +18,7 @@ print(df['Ship Mode'].unique())
 df.rename(columns={'order id': 'order_id'})
 
 
-# To make it effiency, do below instead
+# To make it effiency, do below instead of above code
 df.columns = df.columns.str.lower()
 df.columns = df.columns.str.replace(
     ' ', '_', regex=True)
@@ -71,6 +71,7 @@ conn = psycopg2.connect(database="postgres",
 cur = conn.cursor()
 
 # if you don't want to drop the table directly from DB
+# like right click and delete
 '''
 cur.execute("""
     DROP TABLE person
