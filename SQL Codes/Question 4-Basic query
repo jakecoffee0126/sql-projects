@@ -1,4 +1,0 @@
-SELECT E.employeeId, E.Name, E.Age, E.salary,D.DepartmentId, D.Department
-FROM Employees as E
-INNER JOIN Departments as D
-ON E.DepartmentId=D.departmentId
