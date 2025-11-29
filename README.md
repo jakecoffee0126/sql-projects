@@ -12,7 +12,7 @@ Create a .gitignore file in the root of your project (same level as your venv fo
 
 Bash: 
 Linux: `touch .gitignore`
-Windows:　`echo. > .gitignore
+Windows:　`echo. > .gitignore`
 
 
 -- you’re on Windows, and touch is a Linux/macOS command. On Windows, you can create a .gitignore file in a few different ways
@@ -20,7 +20,7 @@ Windows:　`echo. > .gitignore
 
 Add venv/ to .gitignore Open .gitignore and add:
 
-code: venv/
+code: `venv/`
 
 This tells Git to ignore the entire virtual environment folder.
 
@@ -36,10 +36,11 @@ fatal: pathspec 'venv' did not match any files
 
 check few steps below:
 
-1. Add the correct folder name to .gitignore. For example:
-    venv/
-    .venv/
-    env/
+1. Add the correct folder name to .gitignore. 
+For example:
+    `venv/`
+    `.venv/`
+    `env/`
 
 2. If Git already tracked it If you see the folder in git status, then remove it from the index:
 `git rm -r --cached venv`
@@ -54,13 +55,13 @@ Then you don’t need git rm. Just having it in .gitignore is enough — Git wil
 Commit the changes
 
 Bash:
-git add .gitignore
-git commit -m "Ignore venv folder"
+`git add .gitignore`
+`git commit -m "Ignore venv folder"`
 
 Push to GitHub
 
 Bash:
-git push origin main
+`git push origin main`
 
 (Replace main with your branch name if different.)
 
@@ -90,16 +91,16 @@ You activate it, and then any pip install goes into that environment only.
 
 
 # Create a virtual environment named venv
-python -m venv venv
+`python -m venv venv`
 
 # Activate it
 # On macOS/Linux:
-source venv/bin/activate
+*source venv/bin/activate*
 # On Windows:
-venv\Scripts\activate
+*venv\Scripts\activate*
 
 # Now install packages inside it
-pip install pymysql mysql-connector-python
+`pip install pymysql mysql-connector-python`
 
 
 When you’re done, you can deactivate with:
@@ -112,19 +113,19 @@ deactivate
 Step 1: Create a virtual environment
 
 # Create a virtual environment named venv
-python -m venv venv
+`python -m venv venv`
 
 # Activate it
 # On macOS/Linux:
-source venv/bin/activate
+*source venv/bin/activate*
 # On Windows:
-venv\Scripts\activate
+*venv\Scripts\activate*
 
 
 Step 2: Install your dependencies
 
 Inside the activated environment, install the packages you need:
-pip install pymysql mysql-connector-python
+`pip` install pymysql mysql-connector-python`
 (You can add any other libraries your project requires.)
 
 
@@ -132,7 +133,7 @@ pip install pymysql mysql-connector-python
 Step 3: Freeze dependencies into requirements.txt
 
 Generate a list of all installed packages and their versions:
-terminal run:pip freeze > requirements.txt
+terminal run:`pip freeze > requirements.txt`
 
 This creates a file like:
 pymysql==1.1.0
@@ -143,18 +144,23 @@ Step 4: Recreate the environment elsewhere
 
 On another machine (or later), you can recreate the exact environment:
 
-python -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
+`python -m venv venv`
+
+# Activate it
+# On macOS/Linux:
+*source venv/bin/activate*
+# On Windows:
+*venv\Scripts\activate*
+
+`pip install -r requirements.txt`
 
 
 Typical project structure
-my_project/
-│
-├── venv/                # virtual environment (ignored in git)
-├── requirements.txt     # pinned dependencies
-├── main.py              # your Python script
-└── README.md            # project notes
+> my_project/
+    >venv/                # virtual environment (ignored in git)
+    >requirements.txt     # pinned dependencies
+    >main.py              # your Python script
+    >README.md            # project notes
 
 
 Workflow summary
