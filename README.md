@@ -11,8 +11,8 @@ Steps to ignore venv before pushing to GitHub
 Create a .gitignore file in the root of your project (same level as your venv folder and requirements.txt).
 
 Bash: 
-Linux: touch .gitignore
-Windows:　echo. > .gitignore
+Linux: `touch .gitignore`
+Windows:　`echo. > .gitignore
 
 
 -- you’re on Windows, and touch is a Linux/macOS command. On Windows, you can create a .gitignore file in a few different ways
@@ -26,7 +26,7 @@ This tells Git to ignore the entire virtual environment folder.
 
 Check if Git is already tracking venv If you accidentally added it before, you need to remove it from Git’s index:
 
-Bash: git rm -r --cached venv
+Bash: `git rm -r --cached venv`
 
 (This removes it from Git tracking but keeps the folder locally.)
 
@@ -37,12 +37,12 @@ fatal: pathspec 'venv' did not match any files
 check few steps below:
 
 1. Add the correct folder name to .gitignore. For example:
-venv/
-.venv/
-env/
+    venv/
+    .venv/
+    env/
 
 2. If Git already tracked it If you see the folder in git status, then remove it from the index:
-git rm -r --cached venv
+`git rm -r --cached venv`
 
 3. If Git never tracked it
 Then you don’t need git rm. Just having it in .gitignore is enough — Git will skip it from now on.
