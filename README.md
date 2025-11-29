@@ -156,11 +156,12 @@ On another machine (or later), you can recreate the exact environment:
 
 
 Typical project structure
-> my_project/
-    >venv/                # virtual environment (ignored in git)
-    >requirements.txt     # pinned dependencies
-    >main.py              # your Python script
-    >README.md            # project notes
+>
+- my_project/
+    - venv/                # virtual environment (ignored in git)
+    - requirements.txt     # pinned dependencies
+    - main.py              # your Python script
+    - README.md            # project notes
 
 
 Workflow summary
