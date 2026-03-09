@@ -1,3 +1,7 @@
+DESCRIBE customers;
+SHOW COLUMNS FROM customers;
+
+
 SELECT a.name
 FROM employees a
 INNER JOIN employees b

@@ -1,3 +1,6 @@
+DESCRIBE customers;
+SHOW COLUMNS FROM customers;
+
 SELECT C.[Customer number], C.[First Name], C.[Last Name],C.[Address], C.[email]
 FROM Customers C
 LEFT JOIN Orders O

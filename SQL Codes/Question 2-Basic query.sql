@@ -1,4 +1,7 @@
---Find all the customers from British Columbia
+DESCRIBE customers;
+SHOW COLUMNS FROM customers;
+
+-- Find all the customers from British Columbia
 SELECT [Customer Number], [First Name], [Last Name], Province, [Postal Code], Phone, email
 FROM Customers
 WHERE Province='BC'

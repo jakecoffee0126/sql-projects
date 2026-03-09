@@ -1,3 +1,6 @@
+DESCRIBE customers;
+SHOW COLUMNS FROM customers;
+
 SELECT E.employeeId, E.Name, E.Age, E.salary,D.DepartmentId, D.Department
 FROM Employees as E
 INNER JOIN Departments as D
