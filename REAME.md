@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=-NvSNqPdiPQ
 `ALTER TABLE customers
 RENAME COLUMN `ï»¿Customer Number` TO `Customer Number`;`
 
-* you have to have the ` around the column, because there is a space between two words, and SQL will treat the word "Number" as a sql
+* you have to have the ` around the column, because there is a space between two words on the column name, and SQL will treat the word "Number" as a sql
